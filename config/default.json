@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://chi1974:1974chi@bedemongo-i6cuw.gcp.mongodb.net/mern_shopping?retryWrites=true&w=majority",
+  "jwtSecret": "sl_myJwtSecret"
+}
